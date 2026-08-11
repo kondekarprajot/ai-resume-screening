@@ -190,3 +190,5 @@ Skill taxonomies:
 - Online deployment
 - Recruiter feedback dashboard
 - Candidate comparison view
+
+Run streamlit run app.py
