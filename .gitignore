@@ -7,4 +7,6 @@ env/
 .streamlit/secrets.toml
 .idea/
 data/uploads/
+output/
+tmp/
 *.log
